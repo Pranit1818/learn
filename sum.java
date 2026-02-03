@@ -9,4 +9,4 @@ public class Sum {
         System.out.println("Sum is = " + sum);
     }
 }
-//fuck you prasad
+//fuck you pranit
